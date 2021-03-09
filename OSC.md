@@ -4,6 +4,6 @@
 
 [remote control Arduino with osc](http://www.mintgruen.tu-berlin.de/robotikWiki/doku.php?id=techniken:osc)
 
-[remote control Arduino with osc](https://hackaday.com/2016/06/15/worlds-tiniest-violin-using-radar-and-machine-learning/)
+[wekinator, radar, osc = tiny violin](https://hackaday.com/2016/06/15/worlds-tiniest-violin-using-radar-and-machine-learning/)
 
 
