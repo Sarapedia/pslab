@@ -6,4 +6,8 @@
 
 [wekinator, radar, osc = tiny violin](https://hackaday.com/2016/06/15/worlds-tiniest-violin-using-radar-and-machine-learning/)
 
+[rfid+osc](https://hackaday.com/2009/12/30/rfid-meets-open-sound-control/)
+
+
+
 
