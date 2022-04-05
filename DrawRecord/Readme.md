@@ -11,7 +11,7 @@ Have a look:
 
 ## The relationship of Sound and its Medium has a long histoy
 <img align="center" width="100%" src="Images/phono.png">
-[Quelle](http://www.medienkunstnetz.de/werke/phonograph/bilder/1/)
+[Source](http://www.medienkunstnetz.de/werke/phonograph/bilder/1/)
 
 Listen to Edison: [Edisons Phonograph](http://www.medienkunstnetz.de/werke/phonograph/audio/2/)
 
