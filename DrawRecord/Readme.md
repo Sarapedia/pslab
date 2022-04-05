@@ -29,7 +29,7 @@ Listen to Edison: [Edisons Phonograph](http://www.medienkunstnetz.de/werke/phono
 <img align="center" width="100%" src="Images/polar2.png">
 
 #### Turns these visual methods are also a classic way of adjusting the record players speed
-<img align="center" width="100%" src="Images/stroboskopische_methode.jpg">
+<img align="center" width="100%" src="Images/stroboskopische_methoden.jpg">
 [Source](https://twitter.com/Dead9VBattery/status/1508863597807640584/photo/3)
 
 ## Pocket Science Lab
