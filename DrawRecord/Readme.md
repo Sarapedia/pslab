@@ -19,7 +19,13 @@ Listen to Edison: [Edisons Phonograph](http://www.medienkunstnetz.de/werke/phono
 <img align="center" width="100%" src="Images/drawnew.jpg">
 
 ## Design of a record
+
+# This GIMP drawing
+
 <img align="center" width="100%" src="Images/prepolar.png">
+
+# ...turns into this record by appling the "Polar Coordinates" filter 
+
 <img align="center" width="100%" src="Images/polar2.png">
 
 
