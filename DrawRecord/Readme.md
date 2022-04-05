@@ -24,7 +24,7 @@ Listen to Edison: [Edisons Phonograph](http://www.medienkunstnetz.de/werke/phono
 
 <img align="center" width="100%" src="Images/prepolar.png">
 
-### ...turns into this record by applying the "Polar Coordinates" filter 
+#### ...turns into this record by applying the "Polar Coordinates" filter 
 
 <img align="center" width="100%" src="Images/polar2.png">
 
