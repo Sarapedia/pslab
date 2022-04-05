@@ -16,7 +16,7 @@ Have a look:
 Listen to Edison: [Edisons Phonograph](http://www.medienkunstnetz.de/werke/phonograph/audio/2/)
 
 ## Design of the circuit
-
+<img align="center" width="100%" src="Images/drawnew.jpg">
 ## Pocket Science Lab
 
 ## Open Sound Control
