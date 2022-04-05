@@ -2,7 +2,7 @@
 
 ## We are here because...
 
-We had a walk!
+We [Dr. Daniel Wessolek](https://www.danielwessolek.com/pro/about/) and [Sara Reichert](https://www.nue.tu-berlin.de/menue/mitarbeiterinnen/) had a walk!
 
 Have a look:
 + Open Source Hardware [Open!Next](https://opennext.eu/)
