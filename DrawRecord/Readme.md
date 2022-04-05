@@ -5,8 +5,8 @@
 We had a walk!
 
 Have a look:
-Open Source Hardware [Open!Next](https://opennext.eu/)
-Our Inspiration [Orbita](https://shop.playtronica.com/pages/new-device-orbita)
++ Open Source Hardware [Open!Next](https://opennext.eu/)
++ Our Inspiration [Orbita](https://shop.playtronica.com/pages/new-device-orbita)
 
 
 ## The relationship of Sound and its Medium has a long histoy
@@ -20,7 +20,9 @@ Listen to Edison: [Edisons Phonograph](http://www.medienkunstnetz.de/werke/phono
 ## Pocket Science Lab
 
 ## Open Sound Control
++ Invented by Adrian Freed
 
 ## Tidal Cycles
++ [TidalCycles](https://tidalcycles.org/)
 
 ## Demo
