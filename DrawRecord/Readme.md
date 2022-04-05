@@ -15,7 +15,7 @@ Our Inspiration [Orbita](https://shop.playtronica.com/pages/new-device-orbita)
 
 Listen to Edison: [Edisons Phonograph](http://www.medienkunstnetz.de/werke/phonograph/audio/2/)
 
-## Desing of the cirquit
+## Design of the circuit
 
 ## Pocket Science Lab
 
