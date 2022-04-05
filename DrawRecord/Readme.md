@@ -16,7 +16,18 @@ Have a look:
 Listen to Edison: [Edisons Phonograph](http://www.medienkunstnetz.de/werke/phonograph/audio/2/)
 
 ## Design of the circuit
+<img align="center" width="100%" src="Images/circuit.jpg">
+
+- CNY70 Phototransistor + IR-LED
+- Resistor 150R
+- Resistor 10K
+
 <img align="center" width="100%" src="Images/drawnew.jpg">
+
+And the Sound? Suggestions:
+
+- Connect Output with the OSHW [Atari Punk Console](https://www.instructables.com/Build-an-Atari-Punk-circuit-on-a-breadboard/)
+- Connect Output in the analog Port of a microcontroller and send it to tidalcycles
 
 ## Design of a record
 
