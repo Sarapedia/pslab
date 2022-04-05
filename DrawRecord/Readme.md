@@ -17,6 +17,12 @@ Listen to Edison: [Edisons Phonograph](http://www.medienkunstnetz.de/werke/phono
 
 ## Design of the circuit
 <img align="center" width="100%" src="Images/drawnew.jpg">
+
+## Design of a record
+<img align="center" width="100%" src="Images/prepolar.png">
+<img align="center" width="100%" src="Images/polar2.png">
+
+
 ## Pocket Science Lab
 
 ## Open Sound Control
