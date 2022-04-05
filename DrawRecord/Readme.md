@@ -2,14 +2,14 @@
 
 ## We are here because...
 
-We [Dr. Daniel Wessolek](https://www.danielwessolek.com/pro/about/) and [Sara Reichert](https://www.nue.tu-berlin.de/menue/mitarbeiterinnen/) had a walk!
+We [Sara Reichert](https://www.nue.tu-berlin.de/menue/mitarbeiterinnen/) and [Dr. Daniel Wessolek](https://www.danielwessolek.com/pro/about/) had a walk!
 
 Have a look:
 + Open Source Hardware [Open!Next](https://opennext.eu/)
 + Our Inspiration [Orbita](https://shop.playtronica.com/pages/new-device-orbita)
 
 
-## The relationship of Sound and its Medium has a long histoy
+## The relationship of sound and its medium has a long history
 <img align="center" width="100%" src="Images/phono.png">
 [Source](http://www.medienkunstnetz.de/werke/phonograph/bilder/1/)
 
@@ -28,7 +28,7 @@ Listen to Edison: [Edisons Phonograph](http://www.medienkunstnetz.de/werke/phono
 
 <img align="center" width="100%" src="Images/polar2.png">
 
-#### Turns these visual methods are also a classic way of adjusting the record players speed
+#### Turns out visual methods like these are also a classic way of adjusting the record players speed
 <img align="center" width="100%" src="Images/stroboskopische_methoden.jpg">
 [Source](https://twitter.com/Dead9VBattery/status/1508863597807640584/photo/3)
 
