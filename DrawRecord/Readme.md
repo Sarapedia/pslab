@@ -20,11 +20,11 @@ Listen to Edison: [Edisons Phonograph](http://www.medienkunstnetz.de/werke/phono
 
 ## Design of a record
 
-# This GIMP drawing
+#### This GIMP drawing
 
 <img align="center" width="100%" src="Images/prepolar.png">
 
-# ...turns into this record by appling the "Polar Coordinates" filter 
+### ...turns into this record by applying the "Polar Coordinates" filter 
 
 <img align="center" width="100%" src="Images/polar2.png">
 
