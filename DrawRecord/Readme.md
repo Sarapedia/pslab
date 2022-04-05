@@ -4,9 +4,23 @@
 
 We had a walk!
 
-[Orbita](https://shop.playtronica.com/pages/new-device-orbita)
-[Open!Next](https://opennext.eu/)
+Have a look:
+Open Source Hardware [Open!Next](https://opennext.eu/)
+Our Inspiration [Orbita](https://shop.playtronica.com/pages/new-device-orbita)
 
-Sound and its Medium
-[Edisons Phonograph](http://www.medienkunstnetz.de/werke/phonograph/audio/2/)
+
+## The relationship of Sound and its Medium has a long histoy
+<img align="center" width="100%" src="Images/phono.png">
 [Quelle](http://www.medienkunstnetz.de/werke/phonograph/bilder/1/)
+
+Listen to Edison: [Edisons Phonograph](http://www.medienkunstnetz.de/werke/phonograph/audio/2/)
+
+## Desing of the cirquit
+
+## Pocket Science Lab
+
+## Open Sound Control
+
+## Tidal Cycles
+
+## Demo
