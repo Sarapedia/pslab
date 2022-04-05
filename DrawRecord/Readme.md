@@ -2,7 +2,7 @@
 
 ## We are here because...
 
-We [Sara Reichert](https://www.nue.tu-berlin.de/menue/mitarbeiterinnen/) and [Daniel Wessolek](https://www.danielwessolek.com/pro/about/) had a walk!
+We, [Sara Reichert](https://www.nue.tu-berlin.de/menue/mitarbeiterinnen/) and [Daniel Wessolek](https://www.danielwessolek.com/pro/about/) had a walk!
 
 Have a look:
 + Open Source Hardware [Open!Next](https://opennext.eu/)
@@ -28,7 +28,7 @@ Listen to Edison: [Edisons Phonograph](http://www.medienkunstnetz.de/werke/phono
 
 <img align="center" width="100%" src="Images/polar2.png">
 
-#### Turns out visual methods like these are also a classic way of adjusting the record players speed
+#### Turns out visual methods like these are also a classic way of adjusting the record player's speed
 <img align="center" width="100%" src="Images/stroboskopische_methoden.jpg">
 [Source](https://twitter.com/Dead9VBattery/status/1508863597807640584/photo/3)
 
