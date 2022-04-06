@@ -56,4 +56,4 @@ And the Sound? Suggestions:
 - this python code will send data to Tidal [pslab2tidalcycles](https://github.com/Sarapedia/pslab/blob/main/DrawRecord/pslab2tidalcycles_FOSSASIA_record.py)
 - open Super Collider 
 - open your favourite code editor with Tidal support
-- write:
+- write: d1 $ s "kurt*4" #speed ((cF 0.8 "VOLT"))
