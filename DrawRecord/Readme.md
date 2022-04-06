@@ -61,5 +61,8 @@ And the Sound? Suggestions:
 - open Super Collider 
 - open your favourite code editor with Tidal support
 - write: d1 $ s "kurt*4" #speed ((cF 0.8 "VOLT"))
-
+### Experiment
 <img align="center" width="85%" src="Images/pslabtest.jpeg">
+
+### Results
+<img align="center" width="85%" src="Images/redwhite.pngg">
