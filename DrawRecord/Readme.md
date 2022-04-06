@@ -52,6 +52,8 @@ And the Sound? Suggestions:
 + [TidalCycles](https://tidalcycles.org/)
 
 ## Demo
+<img align="center" width="100%" src="Images/signal.jpg">
+
 - connect drawsoundmachine with +,- and voltmeter of Pocket Science Lab
 - this python code will send data to Tidal [pslab2tidalcycles](https://github.com/Sarapedia/pslab/blob/main/DrawRecord/pslab2tidalcycles_FOSSASIA_record.py)
 - open Super Collider 
