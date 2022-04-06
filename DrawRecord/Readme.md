@@ -66,3 +66,6 @@ And the Sound? Suggestions:
 
 ### Results
 <img align="center" width="85%" src="Images/redwhite.png">
+
+Listen to [RedWhite mp3](https://github.com/Sarapedia/pslab/blob/main/DrawRecord/redwhite.mp3)
+
