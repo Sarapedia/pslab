@@ -4,25 +4,26 @@
 
 We, [Sara Reichert](https://www.nue.tu-berlin.de/index.php?id=222340) and [Daniel Wessolek](https://www.danielwessolek.com/pro/about/) had a walk!
 
+<img align="center" width="85%" src="Images/orbita.png">
 Have a look:
 + Open Source Hardware [Open!Next](https://opennext.eu/)
 + Our Inspiration [Orbita](https://shop.playtronica.com/pages/new-device-orbita)
 
 
 ## The relationship of sound and its medium has a long history
-<img align="center" width="100%" src="Images/phono.png">
+<img align="center" width="85%" src="Images/phono.png">
 [Source](http://www.medienkunstnetz.de/werke/phonograph/bilder/1/)
 
 Listen to Edison: [Edisons Phonograph](http://www.medienkunstnetz.de/werke/phonograph/audio/2/)
 
 ## Design of the circuit
-<img align="center" width="100%" src="Images/circuit.jpg">
+<img align="center" width="85%" src="Images/circuit.jpg">
 
 - CNY70 Phototransistor + IR-LED
 - Resistor 150R
 - Resistor 10K
 
-<img align="center" width="100%" src="Images/drawnew.jpg">
+<img align="center" width="85%" src="Images/drawnew.jpg">
 
 And the Sound? Suggestions:
 
