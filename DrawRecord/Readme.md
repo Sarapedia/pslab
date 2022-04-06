@@ -65,4 +65,4 @@ And the Sound? Suggestions:
 <img align="center" width="85%" src="Images/pslabtest.jpeg">
 
 ### Results
-<img align="center" width="85%" src="Images/redwhite.pngg">
+<img align="center" width="85%" src="Images/redwhite.png">
