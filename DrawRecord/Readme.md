@@ -5,6 +5,7 @@
 We, [Sara Reichert](https://www.nue.tu-berlin.de/index.php?id=222340) and [Daniel Wessolek](https://www.danielwessolek.com/pro/about/) had a walk!
 
 <img align="center" width="85%" src="Images/orbita.png">
+
 Have a look:
 + Open Source Hardware [Open!Next](https://opennext.eu/)
 + Our Inspiration [Orbita](https://shop.playtronica.com/pages/new-device-orbita)
@@ -53,7 +54,7 @@ And the Sound? Suggestions:
 + [TidalCycles](https://tidalcycles.org/)
 
 ## Demo
-<img align="center" width="100%" src="Images/signal.jpg">
+<img align="center" width="85%" src="Images/signal.jpg">
 
 - connect drawsoundmachine with +,- and voltmeter of Pocket Science Lab
 - this python code will send data to Tidal [pslab2tidalcycles](https://github.com/Sarapedia/pslab/blob/main/DrawRecord/pslab2tidalcycles_FOSSASIA_record.py)
