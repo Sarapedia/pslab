@@ -67,6 +67,9 @@ And the Sound? Suggestions:
 [Source](https://twitter.com/Dead9VBattery/status/1508863597807640584/photo/3)
 
 ## Pocket Science Lab
+<img align="center" width="100%" src="Images/PSLab.jpg">
+
+
 
 ## Open Sound Control
 + Invented by Matt Wright and Adrian Freed at Stanford Center for New Music & Audio Technologies (CNMAT)
