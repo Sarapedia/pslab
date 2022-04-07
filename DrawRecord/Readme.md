@@ -6,9 +6,12 @@ We, [Sara Reichert](https://www.nue.tu-berlin.de/index.php?id=222340) and [Danie
 
 Hi. 
 I am Sara. I like space travel/NASA and #OpenHardware.
-I am an electrical engineer and a researcher at TU Berlin and develop a tool that makes prototyping as easy as using a spoon.
+I am an Electrical Engineer and a researcher at TU Berlin and develop a tool that makes prototyping as easy as using a spoon.
 
-
+Hi. I am Daniel. I like #OpenHardware. I am a (Tangible)
+Interaction Designer. I work for an EU-funded project called
+OPENNEXT* (opennext.eu). This is also how I started
+working on the Pocket Science Lab and how I got in touch Orbita.
 
 
 
