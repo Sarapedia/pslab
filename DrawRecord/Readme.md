@@ -13,7 +13,8 @@ I am an Electrical Engineer and a researcher at TU Berlin and develop a tool tha
 
 
 
-🧔🏼️ ⁉️ ❤️ 📠️
+# 🧔🏼️ ⁉️ ❤️ 📠️
+
 Hi. I am Daniel. I like #OpenHardware. I am a (Tangible)
 Interaction Designer. I work for an EU-funded project called
 OPENNEXT* (opennext.eu). This is also how I started
