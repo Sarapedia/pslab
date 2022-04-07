@@ -11,6 +11,9 @@ Hi.
 I am Sara. I like space travel/NASA and #OpenHardware.
 I am an Electrical Engineer and a researcher at TU Berlin and develop a tool that makes prototyping as easy as using a spoon.
 
+
+
+🧔🏼️ ⁉️ ❤️ 📠️
 Hi. I am Daniel. I like #OpenHardware. I am a (Tangible)
 Interaction Designer. I work for an EU-funded project called
 OPENNEXT* (opennext.eu). This is also how I started
