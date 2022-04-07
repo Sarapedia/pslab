@@ -48,10 +48,12 @@ And the Sound? Suggestions:
 ## Pocket Science Lab
 
 ## Open Sound Control
-+ Invented by Adrian Freed
++ Invented by Matt Wright and Adrian Freed at Stanford Center for New Music & Audio Technologies (CNMAT)
++ They proposed OSC in 1997 as “a new protocol for communication among computers, sound synthesizers, and other multimedia devices that is optimized for modern networking technology”.
 
 ## Tidal Cycles
 + [TidalCycles](https://tidalcycles.org/)
++ Quick demo by Daniel
 
 ## Demo
 <img align="center" width="85%" src="Images/signal.jpg">
