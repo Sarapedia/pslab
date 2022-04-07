@@ -12,6 +12,9 @@ Hi. I am Daniel. I like #OpenHardware. I am a (Tangible)
 Interaction Designer. I work for an EU-funded project called
 OPENNEXT* (opennext.eu). This is also how I started
 working on the Pocket Science Lab and how I got in touch Orbita.
+*This project has received funding from the European Union’s Horizon
+2020 research and innovation programme under grant agreement no.
+869984.
 
 
 
