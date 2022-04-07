@@ -6,8 +6,7 @@ We, [Sara Reichert](https://www.nue.tu-berlin.de/index.php?id=222340) and [Danie
 
 Hi. 
 I am Sara. I like space travel/NASA and #OpenHardware.
-I am an Electrical Engineer. 
-I am a researcher at TU Berlin and develop a tool that makes prototyping as easy as using a spoon.
+I am an electrical engineer and a researcher at TU Berlin and develop a tool that makes prototyping as easy as using a spoon.
 
 
 
